@@ -5,8 +5,11 @@ RENCANA MY KONTEN
   * Framework Javascript
   Angular
   React
+    ^ React
 - Struktur Data Dasar
   Laravel
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
