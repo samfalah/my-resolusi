@@ -3,7 +3,10 @@ RENCANA MY KONTEN
 - Javascript
   * ES6
   * Framework Javascript
+  Angular
+  React
 - Struktur Data Dasar
+  Laravel
 - PHP Frameworks
 - Interview
 - Vlogs
